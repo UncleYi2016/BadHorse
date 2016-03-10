@@ -4,3 +4,6 @@ D:\vs-project\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplicati
 D:\vs-project\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 D:\vs-project\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 D:\vs-project\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\VS_Project\BadHorse\BadHorse\bin\Debug\ConsoleApplication2.exe.config
+E:\VS_Project\BadHorse\BadHorse\obj\Debug\ConsoleApplication2.exe
+E:\VS_Project\BadHorse\BadHorse\obj\Debug\ConsoleApplication2.pdb
